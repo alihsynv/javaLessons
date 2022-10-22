@@ -24,7 +24,7 @@ public class Main {
 		product3.setDiscount(7);
 		product3.setUnitPrice(7500);
 		product3.setUnitsInStock(3);
-		product3.setImageUrl("default.jpg");
+		product3.setImageUrl("default3.jpg");
 
 		Product[] products = { product1, product2, product3 };
 
